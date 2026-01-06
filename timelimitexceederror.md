@@ -1,0 +1,3 @@
+- usually 1 second -> 10^8 operations
+- if program crosses 10^8 operations that is  nearly 1 sec then it is known as time limit exceed error
+- it usually means algorithm is too slow for for input size
