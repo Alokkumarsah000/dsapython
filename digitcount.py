@@ -11,4 +11,4 @@ count = int(log10(no)) + 1
 print("Number of digits:", count)
 
 
-# if iteration is depended on any number(in this case divided by 10) then its time complexity is o(logn(n))
+# if iteration is depended on any number(in this case divided by 10) then its time complexity is o(log10(n))
