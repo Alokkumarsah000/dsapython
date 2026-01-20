@@ -3,7 +3,7 @@
 
 # 153-> 1^3+ 5^3+ 3^3 = 153 then armstrong number 
 
-number = 153
+number = 222
 
 result = number
 
